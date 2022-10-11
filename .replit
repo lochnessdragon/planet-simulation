@@ -1,0 +1,5 @@
+run = "mkdir -p build && cd build && cmake ../ && cmake --build . && ./Planetary"
+entrypoint = "src/main.cpp"
+
+[nix]
+channel = "stable-21_11"
