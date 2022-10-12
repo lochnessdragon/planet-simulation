@@ -183,10 +183,19 @@ CMakeFiles/Planetary.dir/src/main.cpp.o: ../src/main.cpp \
   /nix/store/6r5h4h7nqx73m87j5b9sjwy2x9kyri0k-gcc-10.3.0/include/c++/10.3.0/bits/ostream.tcc \
   /nix/store/6r5h4h7nqx73m87j5b9sjwy2x9kyri0k-gcc-10.3.0/include/c++/10.3.0/istream \
   /nix/store/6r5h4h7nqx73m87j5b9sjwy2x9kyri0k-gcc-10.3.0/include/c++/10.3.0/bits/istream.tcc \
+  /nix/store/6r5h4h7nqx73m87j5b9sjwy2x9kyri0k-gcc-10.3.0/include/c++/10.3.0/cstring \
+  /nix/store/msy4nj4gscw9csc82labx0xvh7vqlfif-glibc-2.33-117-dev/include/string.h \
+  /nix/store/msy4nj4gscw9csc82labx0xvh7vqlfif-glibc-2.33-117-dev/include/strings.h \
+  /nix/store/msy4nj4gscw9csc82labx0xvh7vqlfif-glibc-2.33-117-dev/include/bits/strings_fortified.h \
+  /nix/store/msy4nj4gscw9csc82labx0xvh7vqlfif-glibc-2.33-117-dev/include/bits/string_fortified.h \
   /nix/store/wxjzgaa4j0hcrir8q27yrc5psnkchhfb-raylib-4.0.0/include/raylib.h
 
 
 /nix/store/wxjzgaa4j0hcrir8q27yrc5psnkchhfb-raylib-4.0.0/include/raylib.h:
+
+/nix/store/msy4nj4gscw9csc82labx0xvh7vqlfif-glibc-2.33-117-dev/include/bits/strings_fortified.h:
+
+/nix/store/msy4nj4gscw9csc82labx0xvh7vqlfif-glibc-2.33-117-dev/include/strings.h:
 
 /nix/store/6r5h4h7nqx73m87j5b9sjwy2x9kyri0k-gcc-10.3.0/include/c++/10.3.0/bits/istream.tcc:
 
@@ -256,6 +265,8 @@ CMakeFiles/Planetary.dir/src/main.cpp.o: ../src/main.cpp \
 
 /nix/store/msy4nj4gscw9csc82labx0xvh7vqlfif-glibc-2.33-117-dev/include/bits/waitflags.h:
 
+/nix/store/msy4nj4gscw9csc82labx0xvh7vqlfif-glibc-2.33-117-dev/include/string.h:
+
 /nix/store/6r5h4h7nqx73m87j5b9sjwy2x9kyri0k-gcc-10.3.0/include/c++/10.3.0/bits/locale_classes.tcc:
 
 /nix/store/msy4nj4gscw9csc82labx0xvh7vqlfif-glibc-2.33-117-dev/include/stdlib.h:
@@ -273,6 +284,8 @@ CMakeFiles/Planetary.dir/src/main.cpp.o: ../src/main.cpp \
 /nix/store/6r5h4h7nqx73m87j5b9sjwy2x9kyri0k-gcc-10.3.0/include/c++/10.3.0/bits/stl_iterator.h:
 
 /nix/store/msy4nj4gscw9csc82labx0xvh7vqlfif-glibc-2.33-117-dev/include/bits/sched.h:
+
+/nix/store/msy4nj4gscw9csc82labx0xvh7vqlfif-glibc-2.33-117-dev/include/bits/string_fortified.h:
 
 /nix/store/6r5h4h7nqx73m87j5b9sjwy2x9kyri0k-gcc-10.3.0/include/c++/10.3.0/cerrno:
 
@@ -379,6 +392,8 @@ CMakeFiles/Planetary.dir/src/main.cpp.o: ../src/main.cpp \
 /nix/store/6r5h4h7nqx73m87j5b9sjwy2x9kyri0k-gcc-10.3.0/include/c++/10.3.0/ostream:
 
 /nix/store/msy4nj4gscw9csc82labx0xvh7vqlfif-glibc-2.33-117-dev/include/locale.h:
+
+/nix/store/6r5h4h7nqx73m87j5b9sjwy2x9kyri0k-gcc-10.3.0/include/c++/10.3.0/cstring:
 
 /nix/store/msy4nj4gscw9csc82labx0xvh7vqlfif-glibc-2.33-117-dev/include/wctype.h:
 
