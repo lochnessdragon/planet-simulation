@@ -1,1 +1,0 @@
-/nix/store/2qwnn6lizc9d119kp3zig3q19gbfm4n6-gcc-wrapper-10.3.0/bin/g++ CMakeFiles/Planetary.dir/src/main.cpp.o -o Planetary  -lraylib 
